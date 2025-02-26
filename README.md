@@ -4,7 +4,7 @@ I'm a passionate developer working on various projects, ranging from web and app
 
 ## 🚀 Current Projects:
 
-- **Minecraft Server**: Set up a Fabric API server on an Ubuntu-based VM (Google Cloud) and managed the server using SSH from my office laptop.
+- **Minecraft Server**: Set up a Fabric API server on an Ubuntu-based VM (Google Cloud) and managed the server using SSH .
 - **Android App Development**: Currently building an Android app using Kotlin and Jetpack Composables.
 - **Offline AI Analysis**: Working on creating an offline AI for analysis, exploring machine learning tools.
 - **Send Email Modal**: Implementing a 'send email' modal for a website, allowing users to send emails directly from the site.
