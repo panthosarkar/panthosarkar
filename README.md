@@ -25,6 +25,7 @@ I'm a passionate developer working on various projects, ranging from web and app
 ## 📚 Education:
 
 - **Diploma Graduate** .
+- **Persuing Bachelor**
 
 ## 🌱 I’m currently learning:
 
