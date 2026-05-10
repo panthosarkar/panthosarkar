@@ -133,8 +133,13 @@ class PanthoSarkar:
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/pantho-sarkar-59a67a25b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+<a href="https://www.facebook.com/share/18Uq3XFgnG/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" />
 </a>
 </p>
 
