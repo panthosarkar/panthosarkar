@@ -138,8 +138,8 @@ class PanthoSarkar:
 </a>
 </p>
 
-<h3>Facebook</h3><a href="https://www.facebook.com/share/18Uq3XFgnG/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" />
+<a href="https://www.facebook.com/share/18Uq3XFgnG/" target="blank">
+Facebook
 </a>
 </p>
 
