@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Pantho Sarkar</h1>
 <h3 align="center">
 Backend Developer • Realtime Systems Engineer • Linux Enjoyer • Professional Interface Customizer
@@ -151,4 +150,3 @@ I spend more time optimizing the workflow than using it.
 <p align="center">
   <i>"Build systems. Solve problems. Keep learning."</i>
 </p>
-```
