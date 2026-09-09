@@ -190,26 +190,24 @@ class PanthoSarkar:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=panthosarkar&show_icons=true&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=panthosarkar&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=panthosarkar&layout=compact&hide_border=true"
     alt="Top Languages"
   />
 </p>
-
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ---
 
@@ -236,7 +234,7 @@ Scalable APIs, authentication systems, database architectures, multi-tenant appl
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/pantho-sarkar-59a67a25b/)">
+  <a href="[https://www.linkedin.com/in/pantho-sarkar-59a67a25b/]">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
