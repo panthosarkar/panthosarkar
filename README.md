@@ -236,11 +236,11 @@ Scalable APIs, authentication systems, database architectures, multi-tenant appl
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/pantho-sarkar-59a67a25b/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:pantho.sarkar.7@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
